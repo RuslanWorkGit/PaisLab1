@@ -7,9 +7,3 @@ Also works on 10.4 and 10.5
 *********************************************************************
 njnasjfnjanfjanfjajajfnnajfnjajfna
 
-
-ss
-d
-d
-d
-dnstall py2app and its dependencies.
