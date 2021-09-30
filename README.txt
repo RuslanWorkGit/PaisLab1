@@ -11,7 +11,5 @@ Install py2app and its dependencies.
 
 easy_install py2app
 
-
-
 To create the bundle:
     python setup.py py2app
