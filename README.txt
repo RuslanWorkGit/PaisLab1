@@ -16,4 +16,15 @@ Who should make it?
 uuuuu
 uiii
 cnnc
-
+adadad
+dda
+ad
+a
+da
+da
+d
+a
+aa
+d
+a
+da
