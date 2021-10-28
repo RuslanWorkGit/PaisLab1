@@ -18,6 +18,4 @@ German
 Italy 
 Yes
 No
-one
-Two
-THree
+
